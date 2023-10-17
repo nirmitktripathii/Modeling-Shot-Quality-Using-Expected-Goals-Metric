@@ -1,10 +1,10 @@
 # Modeling-Shot-Quality-Using-Expected-Goals-Metric
-
+Abstract 
 The most important statistic in a game of football is the number of goals scored. So it becomes imperative for everyone involved to find ways to improve their goal scoring abilities. Any technique, or piece of insight that can give them an edge over others, is a topic of intense research and inquest. One of the most important of such pieces of research is the Expected Goals Metric. Expected goals (xG) are the number of goals that can be expected to be scored based on where and how a shot was taken. An xG of 0.93 implies that 93 times out of 100, that particular shot would have been a goal. The objective of this project is to build a Machine Learning model from scratch, including webscraping requisite data required to build such a model and use the scraped data to quantify and hence measure and rate the quality of any arbitrary shot taken in a football match given the location of the shot taken and the body part with which it was taken. Such quantification of a football shot will not only be incredibly useful for footballers and coaches in order to assess and improve their performances, but will also help scouts and clubs as a measure to judge a player’s shot quality and make an educated decision on player recruitment.
 
 Contents
 
-[Abstract](#_page6_x90.00_y81.00) 7 [Acknowledgments](#_page8_x90.00_y402.92) 9 [1 Introduction](#_page12_x90.00_y81.00) 13
+[1 Introduction](#_page12_x90.00_y81.00) 13
 
 1. [Uncertainty ](#_page12_x90.00_y423.94). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
 1. [Expected Goals .](#_page13_x54.00_y191.82) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
